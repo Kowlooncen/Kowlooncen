@@ -1,18 +1,25 @@
-## <center> Hello! Welcome to my repository. 👋 </center>
+<!--   my-header-img -->
+![image](https://github.com/Kowlooncen/Kowlooncen/assets/87590176/5e3ce5d7-72a3-4d76-b2c9-237a7312fa60)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;My+name+is+Chen Jiulong)](https://git.io/typing-svg)
 
-**I'm a a master's student in the Department of System Analysis.**
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+My+name+is+Chen+Jiulong;+Welcome+to+My+Profile!;My+major+is+mathematics+and+informatics;Enthusiastic+about+learning+new+things+)](https://git.io/typing-svg)
 
-🔭 Currently studying at the Faculty of Computational Mathematics and Cybernetics at Lomonosov Moscow State University.
+## <center> 你好，Привет, Hello！ 👋</center>
 
-⚡ Chinese National Scholarship in 2020~2021.
 
-🌱 First place in the Chinese National College Student Mathematics Competition, MCM Meritorious Winner. 
 
-🤔 Devoting in Data Science, have practical experience with RL/NLP/Speech.
+**I'm a a master's student at Lomonosov Moscow State University.**
 
-💬 Fluent in Russian, English and mandarin :)  
+👨‍🎓 Currently studying at the Faculty of Computational Mathematics and Cybernetics in the Department of System Analysis.
+
+⭐️ Chinese National Scholarship(2020~2021). Chinese Government Scholarship for Study Abroad(2023).
+
+🏆 First Prize in the Chinese National College Student Mathematics Competition(2021), MCM Meritorious Winner in the Amercan Mathmatic Modeling competition(2022). 
+
+🧐 Devoting in control theory, dynamic programming and finacial mathematics.
+
+💬 Fluent in English, Russian and mandarin :)  
 
 📫 How to reach me: 
 - **Email:** kowlooncen@gmail.com  
