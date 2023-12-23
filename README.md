@@ -24,6 +24,8 @@
 
 💬 Fluent in English, Russian, and Mandarin :)
 
+<img src="./sign.png" alt="image" align="right" height="150" width="300">
+
 📫 How to reach me: 
 - **Email:** kowlooncen@gmail.com  
 - **VK:** @kowlooncen
