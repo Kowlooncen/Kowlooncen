@@ -1,30 +1,37 @@
-<!--   my-header-img -->
+ <!--   my-header-img -->
 ![image](https://github.com/Kowlooncen/Kowlooncen/assets/87590176/5e3ce5d7-72a3-4d76-b2c9-237a7312fa60)
 
-
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+My+name+is+Chen+Jiulong;+Welcome+to+My+Profile!;My+major+is+mathematics+and+informatics;Enthusiastic+about+learning+new+things+)](https://git.io/typing-svg)
-
-## <center> 你好，Привет, Hello！ 👋</center>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+My+Profile!+My+name+is+Chen+Jiulong.;My+major+is+mathematics+and+informatics.;Enthusiastic+about+learning+new+things!)](https://git.io/typing-svg)
 
 
 
-**I'm a a master's student at Lomonosov Moscow State University.**
+<img src="https://github.com/Kowlooncen/Kowlooncen/assets/87590176/4ffabe83-5cf0-4541-a587-ee695cfece66" align="right" height="48" width="48" ></a>
+
+
+
+## <center>你好，Привет, Hello! 👋</center>
+
+**I'm a master's student at Lomonosov Moscow State University.**
 
 👨‍🎓 Currently studying at the Faculty of Computational Mathematics and Cybernetics in the Department of System Analysis.
 
-⭐️ Chinese National Scholarship(2020~2021). Chinese Government Scholarship for Study Abroad(2023).
+⭐️ Recipient of the Chinese National Scholarship (2020~2021) and the Chinese Government Scholarship for Study Abroad (2023).
 
-🏆 First Prize in the Chinese National College Student Mathematics Competition(2021), MCM Meritorious Winner in the Amercan Mathmatic Modeling competition(2022). 
+🏆 Achieved First Prize in the Chinese National College Student Mathematics Competition (2021) and recognized as a Meritorious Winner in the American Mathematical Modeling Competition (2022).
 
-🧐 Devoting in control theory, dynamic programming and finacial mathematics.
+🧐 Focused on research in control theory, dynamic programming, and financial mathematics.
 
-💬 Fluent in English, Russian and mandarin :)  
+💬 Fluent in English, Russian, and Mandarin :)
 
 📫 How to reach me: 
 - **Email:** kowlooncen@gmail.com  
 - **VK:** @kowlooncen
 - **Telegram:** @kowlooncen
+
+
+
+ 
 <!--
  <center>
      <h1>XXX</h1>
